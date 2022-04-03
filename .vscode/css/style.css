@@ -1,0 +1,13 @@
+
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+.xjumbotron {
+    position: relative;
+    background-image: url("../images/mushrooms.jpg");
+    background-attachment: fixed;
+    background-position: bottom center;
+    background-size: cover;
+  }
